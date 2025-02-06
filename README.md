@@ -118,8 +118,6 @@ The primary objective of this portfolio is to showcase your skills, education, p
 
 ### 3️⃣ Advanced Setup (AI + Authentication + CMS)
 
-- **Auth0/Clerk** for secure authentication and managing access to admin/blog panels.
-- **LangChain** + **OpenAI API** for AI-driven resume matching, providing job match suggestions for recruiters.
+- **Auth0/Clerk** for secure authentication and managing access to admin/blog panels and users🦽.
+- **LangChain** + **OpenAI API** for AI-driven resume matching, providing job 🦽match suggestions for recruiters.
 - **WebSockets/Firebase Realtime DB** to add a real-time chat feature, allowing visitors to interact with a chatbot or ask questions.
-
-

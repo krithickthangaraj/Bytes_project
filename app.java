@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 package Bytes_project;
+=======
+>>>>>>> 4eb2ffa3114fda7edc7955e30232deee45c1baa4
 class Solution {
     public int binarysearch(int[] arr, int k) {
         int l=0;

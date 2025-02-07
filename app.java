@@ -16,5 +16,8 @@ class Solution {
             if(arr[mid]>k) r=mid-1;
         }
         return -1;
+        if(arr[mid]<k) l=mid+1;
+            if(arr[mid]>k) r=mid-1;if(arr[mid]<k) l=mid+1;
+            if(arr[mid]>k) r=mid-1;
     }
 }
